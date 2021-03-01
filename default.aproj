@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="监印" libEmbed="true" icon="31.ico" ui="win" output="监控且打印.exe" CompanyName="四川三洲特种钢管有限公司" FileDescription="监控且打印" LegalCopyright="Copyright (C) Panndora 2021" ProductName="监控且打印" InternalName="监控且打印" FileVersion="0.0.0.07" ProductVersion="0.0.0.07" publishDir="/dist/" dstrip="false">
+	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
+	<folder name="资源文件" path="res" embed="true"/>
+	<folder name="窗体文件" path="dlg" comment="目录" embed="true"/>
+</project>

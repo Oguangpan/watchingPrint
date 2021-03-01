@@ -1,0 +1,7 @@
+﻿{
+edit4="-print-to-default";
+edit="C:\printfile11·";
+afterLoad=null;
+beforeSave=null;
+edit2="SumatraPDF.exe"
+}
